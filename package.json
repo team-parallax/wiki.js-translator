@@ -1,0 +1,20 @@
+{
+	"name": "wiki-translator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"type": "module",
+	"keywords": [],
+	"author": "Marcel Michelfelder <marcel.michelfelder@team-parallax.com> (http://team-parallax.com)",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.7.2",
+		"dotenv": "^16.4.5",
+		"graphql": "^16.8.1",
+		"graphql-request": "^7.0.1",
+		"openai": "^4.49.1"
+	}
+}
